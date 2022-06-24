@@ -3,5 +3,3 @@
 </p>
 
 ## Projetos:
-
-* **Analisando dados do Airbnb - Londres:** https://bit.ly/3xWejNn
